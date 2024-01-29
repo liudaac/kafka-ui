@@ -42,7 +42,7 @@ const Metrics = () => {
           />
           <S.Port>
             <Input
-              label="Port *"
+              label="Port Offset(from Node-Port)"
               name="metrics.port"
               type="number"
               positiveOnly
